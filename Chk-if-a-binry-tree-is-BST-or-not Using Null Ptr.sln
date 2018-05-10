@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chk-if-a-binry-tree-is-BST-or-not Using Null Ptr", "Chk-if-a-binry-tree-is-BST-or-not Using Null Ptr\Chk-if-a-binry-tree-is-BST-or-not Using Null Ptr.vcxproj", "{743EBD13-062D-4567-BDF8-1152AC4E418A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743EBD13-062D-4567-BDF8-1152AC4E418A}.Debug|x64.ActiveCfg = Debug|x64
+		{743EBD13-062D-4567-BDF8-1152AC4E418A}.Debug|x64.Build.0 = Debug|x64
+		{743EBD13-062D-4567-BDF8-1152AC4E418A}.Debug|x86.ActiveCfg = Debug|Win32
+		{743EBD13-062D-4567-BDF8-1152AC4E418A}.Debug|x86.Build.0 = Debug|Win32
+		{743EBD13-062D-4567-BDF8-1152AC4E418A}.Release|x64.ActiveCfg = Release|x64
+		{743EBD13-062D-4567-BDF8-1152AC4E418A}.Release|x64.Build.0 = Release|x64
+		{743EBD13-062D-4567-BDF8-1152AC4E418A}.Release|x86.ActiveCfg = Release|Win32
+		{743EBD13-062D-4567-BDF8-1152AC4E418A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0680B73-2EC8-4977-8B75-6D8C84889166}
+	EndGlobalSection
+EndGlobal
